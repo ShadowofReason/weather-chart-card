@@ -169,6 +169,40 @@ const locale = {
     'windy': 'Windy',
     'windy-variant': 'Windy'
   },
+  ee: {
+    'tempHi': 'Õhutemperatuur',
+    'tempLo': 'Õhutemperatuur öösel',
+    'precip': 'Ennustused',
+    'feelsLike': 'Tajutav temperatuur',
+    'units': {
+      'km/h': 'km/h',
+      'm/s': 'm/s',
+      'mph': 'mph',
+      'Bft': 'Bft',
+      'hPa': 'hPa',
+      'mmHg': 'mm Hg',
+      'mm': 'mm',
+      'in': 'in'
+    },
+    'cardinalDirections': [
+      'N', 'N-NE', 'NE', 'E-NE', 'E', 'E-SE', 'SE', 'S-SE',
+      'S', 'S-SW', 'SW', 'W-SW', 'W', 'W-NW', 'NW', 'N-NW', 'N'
+    ],
+    'clear-night': 'Selge, öö',
+    'cloudy': 'Pilvine',
+    'fog': 'Udu',
+    'hail': 'Rahe',
+    'lightning': 'Äike',
+    'lightning-rainy': 'Vihmane äiksetorm',
+    'partlycloudy': 'Osaliselt pilvine',
+    'pouring': 'Sadu',
+    'rainy': 'Vihmane',
+    'snowy': 'Lumine',
+    'snowy-rainy': 'Lumine, vihmane',
+    'sunny': 'Päikesepaisteline',
+    'windy': 'Tuul',
+    'windy-variant': 'Tuuline'
+  },
   es: {
     'tempHi': 'Temperatura máxima',
     'tempLo': 'Temperatura mínima',
